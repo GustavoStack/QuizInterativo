@@ -8,8 +8,8 @@ Este é um simples aplicativo de quiz desenvolvido em React, onde os usuários p
 * Feedback ao Final: Após completar o quiz, os usuários recebem um feedback detalhado sobre seu desempenho, incluindo o número de perguntas respondidas corretamente. 
 * Interface Amigável: O aplicativo possui uma interface limpa e responsiva, garantindo uma experiência agradável em todos os dispositivos.
   
-## Tecnoloigias
-* React
+## Tecnologias
+* `React´
 * JavaScript
 * HTML
 * CSS

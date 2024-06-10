@@ -9,7 +9,7 @@ Este é um simples aplicativo de quiz desenvolvido em React, onde os usuários p
 * Interface Amigável: O aplicativo possui uma interface limpa e responsiva, garantindo uma experiência agradável em todos os dispositivos.
   
 ## Tecnologias
-* `React´
+* [React]
 * JavaScript
 * HTML
 * CSS
